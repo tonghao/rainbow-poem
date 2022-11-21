@@ -5,7 +5,8 @@ pink
 green
 blue
 yellow
-orange
+orang
+white
 unicorn
 brown
 this is the color of rainbow
