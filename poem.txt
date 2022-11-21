@@ -6,6 +6,7 @@ blue
 yellow
 orange
 unicorn
+black
 brown
 this is the color of rainbow
 and the unicorns
